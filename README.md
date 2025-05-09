@@ -12,7 +12,7 @@ Siz bu loyihani quyidagi holatlarda ishlatishingiz mumkin:
 - Dasturdan foydalanish (ko‘rish, ishlatish).
 - Dasturda o‘zgartirishlar kiritish taqiqlanadi.
 
-### [Linux versiyasi](./subdomen-finder)
+### [Linux versiyasi](./subdomain-finder)
 - Terminalda :
 - Avval clone qilib oling git bilan:
 ```shell
