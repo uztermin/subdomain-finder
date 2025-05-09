@@ -19,6 +19,11 @@ Siz bu loyihani quyidagi holatlarda ishlatishingiz mumkin:
 sudo apt install git
 git clone https://github.com/uztermin/subdomain-finder.git
 ```
+![image alt](https://github.com/uztermin/subdomain-finder/blob/239bb2d7e29f2cbd7d7fb77143e6c635ea439579/Screenshot%20From%202025-05-09%2009-54-30.png)
+
+
+
+
 - Keyin shu Directory ga o'tib olasiz:
 ```shell
 cd subdomen-finder
