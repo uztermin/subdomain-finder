@@ -51,6 +51,12 @@ pip install -r requirements.txt
 ```shell
 pip3 install -r requirements.txt
 ```
+![image alt](https://github.com/uztermin/subdomain-finder/blob/49a4587ae639bcef190a99e6907e678c569de786/Screenshot%20From%202025-05-09%2009-57-08.png)
+
+
+
+
+
 - Va Kodni ishga tushrishingiz mumkin:
 ```shell
 python3 linux-subdomen.py
