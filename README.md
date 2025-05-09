@@ -61,6 +61,13 @@ pip3 install -r requirements.txt
 ```shell
 python3 linux-subdomen.py
 ```
+![image alt](https://github.com/uztermin/subdomain-finder/blob/398f49c99d3ce3426a1ce9f4825fd0c774ff3c7b/Screenshot%20From%202025-05-09%2010-00-10.png)
+
+
+
+
+
+
 
 ## Mualliflik huquqi
 
