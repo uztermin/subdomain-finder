@@ -37,6 +37,12 @@ source activate
 cd ..
 cd ..
 ```
+![image alt](https://github.com/uztermin/subdomain-finder/blob/e97b13405d396f1eef9a86e2f224478dfc872c73/Screenshot%20From%202025-05-09%2009-56-40.png)
+
+
+
+
+
 - Endi kerakli kutubxonalarni install qilib olishingiz zarur:
 ```shell
 pip install -r requirements.txt 
